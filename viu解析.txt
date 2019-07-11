@@ -1,0 +1,11 @@
+https://stream-hk.viu.com/s/6fsllvGGi70Ly425vewfbA/1562762629/UD/0c5e18d0923150de7b08e157c04f448d/0c5e18d0923150de7b08e157c04f448d_Layer3_vod.m3u8
+
+https://www.viu.com/ott/misc/convertSrttoVtt.php?srturl=https://d2anahhhmp1ffz.cloudfront.net/1969226305/69a976445ab0048321ae7d2bfa219f10598950b0
+
+https://d1k2us671qcoau.cloudfront.net/distribute_web_hk.php?ccs_product_id=0c5e18d0923150de7b08e157c04f448d
+
+https://dfp6rglgjqszk.cloudfront.net/index.php?r=v1/search-setting/default-keyword&platform_flag_label=web&area_id=1&language_flag_id=1
+
+https://www.viu.com/ott/hk/index.php?r=vod/multi-product&platform_flag_label=web&area_id=1&language_flag_id=1&product_id=156444
+
+https://www.viu.com/ott/hk/index.php?r=vod/ajax-detail&platform_flag_label=web&area_id=1&language_flag_id=1&product_id=156444&ut=0
